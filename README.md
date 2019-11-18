@@ -1,2 +1,2 @@
 # TP-covoiturage
-jpp tp fin d'annee lol xp mdr
+bon du coup on apprend github par la mme okaz
